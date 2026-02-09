@@ -1,0 +1,14 @@
+# Outputs generados (pesados)
+ORIGINAL/OUTPUT/
+
+# Datos intermedios
+ORIGINAL/DATA/intermediate_data/
+
+# Shapefiles GIS
+ORIGINAL/DATA/shapefiles/
+
+ORIGINAL/DATA/**/*.dta
+ORIGINAL/DATA/**/*.csv
+ORIGINAL/DATA/**/*.shp
+ORIGINAL/DATA/**/*.csv
+ORIGINAL/DATA/**/*.dta
