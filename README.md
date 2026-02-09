@@ -55,14 +55,6 @@ Este archivo documenta:
 
 ---
 
-## Principio rector
-
-> **El repositorio intenta imitar, de manera fiel y transparente, la estructura original del paper**, utilizando la carpeta `ORIGINAL/` como ancla conceptual y técnica, y replicando progresivamente dicha estructura en las carpetas propias del proyecto.
-
-Este enfoque facilita tanto la replicación como la extensión futura del análisis.
-
----
-
 ## Referencias
 
 - Rode et al. (2021). *Estimating the global economic costs of climate change*. **Nature**.  
@@ -70,3 +62,4 @@ Este enfoque facilita tanto la replicación como la extensión futura del análi
 
 - Material de replicación original (Zenodo):  
   https://doi.org/10.5281/zenodo.5099834
+
