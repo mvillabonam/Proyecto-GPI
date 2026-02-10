@@ -1,14 +1,6 @@
-# Outputs generados (pesados)
-ORIGINAL/OUTPUT/
+# archivos pesados no necesarios para replicar el paper
+ORIGINAL/DATA/IGNORAR/
 
-# Datos intermedios
-ORIGINAL/DATA/intermediate_data/
+# archivos pesados no necesarios para replicar el paper
+ORIGINAL/OUTPUT/IGNORAR/
 
-# Shapefiles GIS
-ORIGINAL/DATA/shapefiles/
-
-ORIGINAL/DATA/**/*.dta
-ORIGINAL/DATA/**/*.csv
-ORIGINAL/DATA/**/*.shp
-ORIGINAL/DATA/**/*.csv
-ORIGINAL/DATA/**/*.dta
